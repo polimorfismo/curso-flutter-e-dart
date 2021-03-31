@@ -56,7 +56,7 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 
 # App MyCard - Módulo III
 ## Aula 12 - App MyCard - Criando um cartão de visita pessoal em Flutter
-* [Projeto inicial do app MyCard](https://github.com/cribeiroduarte/my-card-flutter)
+* [Projeto inicial do app MyCard](https://github.com/polimorfismo/my-card-estrutura-inicial-flutter)
 
 ## Aula 13 - App MyCard - Entendendo o Hot Reload e o Hot Restart do Flutter
 * [Explicação sobre o Hot Reload - Documentação oficial](https://flutter.dev/docs/development/tools/hot-reload)
