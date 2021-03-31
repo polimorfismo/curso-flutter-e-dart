@@ -136,7 +136,7 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 
 # App Vidente Virtual - Módulo V
 ## Aula 35 - MEGA DESAFIO 1 - App Vidente Virtual
-* [Projeto inicial do MEGA DESAFIO 1 - App Vidente Virtual](https://github.com/lucasfv1/vidente-virtual-flutter)
+* [Projeto inicial do MEGA DESAFIO 1 - App Vidente Virtual](https://github.com/polimorfismo/mega-desafio-1-vidente-virtual-estrutura-inicial-flutter)
 * [Etapa 1](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/Etapa%201%20-%20Desafio%20App%20Vidente%20Virtual.pdf)
 * [Etapa 2](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/Etapa%202%20-%20Desafio%20App%20Vidente%20Virtual.pdf)
 * [Etapa 3](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/Etapa%203%20-%20Desafio%20App%20Vidente%20Virtual.pdf)
