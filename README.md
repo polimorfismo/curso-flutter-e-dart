@@ -89,7 +89,7 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 * [Projeto final do aplicativo MyCard](https://github.com/cribeiroduarte/my-card-final-flutter)
 
 ## Aula 20 - App MyCard - DESAFIO 02 - Parte 1 (Calculadora)
-* [Projeto inicial do desafio](https://github.com/cribeiroduarte/desaifo-1-calculadora-flutter-estrutura-inicial)
+* [Projeto inicial do desafio](https://github.com/polimorfismo/desafio-2-parte-1-calculadora-estrutura-inicial-flutter)
 * [Layout de referência](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/imagens/desafio-1-calculadora.png)
 
 # App Dadoos - Módulo IV
