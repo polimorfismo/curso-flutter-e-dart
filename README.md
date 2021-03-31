@@ -129,7 +129,7 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 * [Classe Random e método nextInt - Documentação oficial](https://api.dart.dev/stable/2.10.4/dart-math/Random-class.html)
 
 ## Aula 33 - App Dadoos - Solução do desafio da aula 32
-* [Projeto final do aplicativo Dadoos](https://github.com/cribeiroduarte/dadoos-final-flutter)
+* [Projeto final do aplicativo Dadoos](https://github.com/polimorfismo/dadoos-completo-flutter)
 
 ## Aula 34 - App Dadoos - DESAFIO 02 - Parte 2 (Calculadora)
 * [Estrutura final da Parte 1 do desafio](https://github.com/lucasfv1/desafio-calculadora-flutter-parte1-completo)
