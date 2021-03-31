@@ -94,7 +94,7 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 
 # App Dadoos - Módulo IV
 ## Aula 21 - App Dadoos - Criando um app de jogar dados usando o widget Stateful
-* [Projeto inicial do app Dadoos](https://github.com/cribeiroduarte/dadoos-flutter)
+* [Projeto inicial do app Dadoos](https://github.com/polimorfismo/dadoos-estrutura-inicial-flutter)
 
 ## Aula 22 - App Dadoos - Usando o widget Expanded para criar layouts flexíveis
 * [Expanded - Documentação do widget](https://api.flutter.dev/flutter/widgets/Expanded-class.html)
