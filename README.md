@@ -11,7 +11,7 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 # Introdução - Módulo I
 ## Aula 04: Como aproveitar ao máximo o curso
 * [KeyBr - Site aprimorar a habilidade de digitação](https://www.keybr.com)
-* [Sistema de anotações Cornell](https://github.com/cribeiroduarte/imagens-curso-flutter/blob/main/%20Sistema%20de%20anotações%20Cornell.pdf)
+* [Sistema de anotações Cornell](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/Sistema%20de%20anota%C3%A7%C3%B5es%20Cornell.pdf)
 * [Stack Overflow - Para dúvidas sobre Flutter](https://stackoverflow.com/questions/tagged/flutter)
 * [Flutter - Documentação oficial](https://flutter.dev/docs)
 * [Dart - Documentação oficial](https://dart.dev/guides)
@@ -41,12 +41,12 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 * [Image - Documentação do widget](https://api.flutter.dev/flutter/widgets/Image-class.html)
 
 ## Aula 09 - App Eu Sou Rico - Trabalhando com assets e com o arquivo pubspec
-* [rubi.png - Arquivo de imagem](https://github.com/cribeiroduarte/imagens-curso-flutter/blob/main/rubi.png)
+* [rubi.png - Arquivo de imagem](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/imagens/rubi.png)
 * [YAML - Informações adicionais](https://pt.wikipedia.org/wiki/YAML)
 * [AssetImage - Documentação do widget](https://api.flutter.dev/flutter/painting/AssetImage-class.html)
 
 ## Aula 10 - App Eu Sou Rico - Adicionar ícones nos aplicativos iOS e Android
-* [rubi-icon.png - Arquivo de imagem (ícone)](https://github.com/cribeiroduarte/imagens-curso-flutter/blob/main/rubi-icon.png)
+* [rubi-icon.png - Arquivo de imagem (ícone)](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/imagens/rubi-icon.png)
 * [appicon.co - Site para criar ícones Android e iOS](https://appicon.co)
 * [Projeto final do aplicativo Eu Sou Rico](https://github.com/cribeiroduarte/eu-sou-rico-flutter)
 
@@ -66,7 +66,7 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 * [Container - Documentação oficial](https://api.flutter.dev/flutter/widgets/Container-class.html)
 
 ## Aula 15 - App MyCard - Como usar os widgets Column e Row no layout de apps
-* [Desafio proposto na aula](https://github.com/cribeiroduarte/imagens-curso-flutter/blob/main/aula-15-desafio-layout.png)
+* [Desafio proposto na aula](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/imagens/aula-15-desafio-layout.png)
 * [Row - Documentação do widget](https://api.flutter.dev/flutter/widgets/Row-class.html)
 * [Column - Documentação do widget](https://api.flutter.dev/flutter/widgets/Column-class.html)
 
@@ -90,7 +90,7 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 
 ## Aula 20 - App MyCard - DESAFIO 02 - Parte 1 (Calculadora)
 * [Projeto inicial do desafio](https://github.com/cribeiroduarte/desaifo-1-calculadora-flutter-estrutura-inicial)
-* [Layout de referência](https://github.com/cribeiroduarte/imagens-curso-flutter/blob/main/desafio-1-calculadora.png)
+* [Layout de referência](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/imagens/desafio-1-calculadora.png)
 
 # App Dadoos - Módulo IV
 ## Aula 21 - App Dadoos - Criando um app de jogar dados usando o widget Stateful
@@ -137,13 +137,13 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 # App Vidente Virtual - Módulo V
 ## Aula 35 - MEGA DESAFIO 1 - App Vidente Virtual
 * [Projeto inicial do MEGA DESAFIO 1 - App Vidente Virtual](https://github.com/lucasfv1/vidente-virtual-flutter)
-* [Etapa 1](https://drive.google.com/file/d/1xeHM_diOHneMAdi2EgTMJBBxZZpf7qBl/view?usp=sharing)
-* [Etapa 2](https://drive.google.com/file/d/1_7Me4vmohNhhxQdc-1f3Z1Tm837PBkCf/view?usp=sharing)
-* [Etapa 3](https://drive.google.com/file/d/1VBfTI_2_OMOWJC5Fkc5fHTwzKqrCaIJh/view?usp=sharing)
-* [Etapa 4](https://drive.google.com/file/d/1wm_-tk18ztCZAdYEkTaFvDVUqqhgVoar/view?usp=sharing)
-* [Etapa 5](https://drive.google.com/file/d/1raep5h2Dn8YZXicthB1Y0zlBIXT-jw8u/view?usp=sharing)
-* [Etapa 6](https://drive.google.com/file/d/1uZpv-LVNu2RrIr0yGEhOn6uw3yL89wN1/view?usp=sharing)
-* [Etapa 7](https://drive.google.com/file/d/1ClYmNYJLmmP_NlHMiRH0LjIh54sLCL0B/view?usp=sharing)
+* [Etapa 1](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/Etapa%201%20-%20Desafio%20App%20Vidente%20Virtual.pdf)
+* [Etapa 2](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/Etapa%202%20-%20Desafio%20App%20Vidente%20Virtual.pdf)
+* [Etapa 3](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/Etapa%203%20-%20Desafio%20App%20Vidente%20Virtual.pdf)
+* [Etapa 4](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/Etapa%204%20-%20Desafio%20App%20Vidente%20Virtual.pdf)
+* [Etapa 5](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/Etapa%205%20-%20Desafio%20App%20Vidente%20Virtual.pdf)
+* [Etapa 6](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/Etapa%206%20-%20Desafio%20App%20Vidente%20Virtual.pdf)
+* [Etapa 7](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/Etapa%207%20-%20Desafio%20App%20Vidente%20Virtual.pdf)
 
 # App Marimba - Módulo VI
 ## Aula 36 - App Marimba - Um aplicativo de instrumento musical
@@ -158,7 +158,7 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 * [AudioCache - Documentação detalhada](https://github.com/luanpotter/audioplayers/blob/master/doc/audio_cache.md)
 
 ## Aula 39 - App Marimba - Reproduzindo múltiplos sons utilizando botões
-* [Layout de referência do App Marimba - Imagem](https://github.com/cribeiroduarte/imagens-curso-flutter/blob/main/marimba-flutter-novo.png)
+* [Layout de referência do App Marimba - Imagem](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/imagens/marimba-flutter-novo.png)
 * [Método styleFrom - Documentação oficial](https://api.flutter.dev/flutter/material/TextButton/styleFrom.html)
 
 ## Aula 43 - App Marimba - [Dart] Funções - DESAFIO
