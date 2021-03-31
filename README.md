@@ -48,7 +48,7 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 ## Aula 10 - App Eu Sou Rico - Adicionar ícones nos aplicativos iOS e Android
 * [rubi-icon.png - Arquivo de imagem (ícone)](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/imagens/rubi-icon.png)
 * [appicon.co - Site para criar ícones Android e iOS](https://appicon.co)
-* [Projeto final do aplicativo Eu Sou Rico](https://github.com/polimorfismo/eu-sou-rico-curso-completo-flutter-e-dart)
+* [Projeto final do aplicativo Eu Sou Rico](https://github.com/polimorfismo/eu-sou-rico-completo-flutter)
 
 ## Aula 11 - App Eu Sou Rico - DESAFIO 01 (Eu Sou Programador)
 * [icons8.com - Site com imagens vetorizadas](https://icons8.com/illustrations)
