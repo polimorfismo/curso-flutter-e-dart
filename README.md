@@ -1,3 +1,7 @@
+Corrigido até o 35 - MEGA DESAFIO 1 - App Vidente Virtual
+
+---
+
 <p align="center">
   <img width="800" height="200" src="https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/imagens/banner_polimorfismo.png">
 </p>
@@ -147,7 +151,7 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 
 # App Marimba - Módulo VI
 ## Aula 36 - App Marimba - Um aplicativo de instrumento musical
-* [Projeto inicial do app Marimba](https://github.com/cribeiroduarte/marimba-flutter)
+* [Projeto inicial do app Marimba](https://github.com/polimorfismo/marimba-estrutura-inicial-flutter)
 
 ## Aula 37 - App Marimba - Como usar os pacotes do Flutter? (Flutter Packages)
 * [Pacotes do Flutter - Documentação oficial](https://flutter.dev/docs/development/packages-and-plugins/using-packages)
@@ -165,4 +169,4 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 * [Link do desafio - DartPad](https://dartpad.dev/4ee7d285a80d4c73c38f2a884f5dbc47)
 
 ## Aula 44 - App Marimba - Refatorando o nosso App
-* [Projeto final do aplicativo Marimba](https://github.com/cribeiroduarte/marimba-final-flutter)
+* [Projeto final do aplicativo Marimba](https://github.com/polimorfismo/marimba-completo-flutter)
