@@ -176,3 +176,7 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 * [Projeto inicial do app QuizApp](https://github.com/lucasfv1/quizapp-estrutura-inicial-flutter)
 * [FlatButton - Documentação oficial (obsoleto)](https://api.flutter.dev/flutter/material/FlatButton-class.html)
 * [TextButton - Documentação oficial (substitui FlatButton)](https://api.flutter.dev/flutter/material/TextButton-class.html)
+
+## Aula 47 - App QuizApp - Desenvolvendo um marcador de pontos
+* [Método add - Documentação oficial](https://api.flutter.dev/flutter/dart-core/List/add.html)
+
