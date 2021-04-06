@@ -1,7 +1,3 @@
-Corrigido até o 35 - MEGA DESAFIO 1 - App Vidente Virtual
-
----
-
 <p align="center">
   <img width="800" height="200" src="https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/imagens/banner_polimorfismo.png">
 </p>
