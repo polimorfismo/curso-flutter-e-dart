@@ -176,3 +176,9 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 ## Aula 47 - App QuizApp - Desenvolvendo um marcador de pontos
 * [Método add - Documentação oficial](https://api.flutter.dev/flutter/dart-core/List/add.html)
 
+## Aula 48 - App QuizApp - [Dart] Listas/Lists
+* [Lists em dart - Documentação oficial](https://dart.dev/guides/libraries/library-tour#collections)
+* [Classe List - Documentação oficial](https://api.flutter.dev/flutter/dart-core/List-class.html)
+* [Método indexOf - Documentação oficial](https://api.dart.dev/stable/2.12.0/dart-core/List/indexOf.html)
+* [Método insert - Documentação oficial](https://api.dart.dev/stable/2.10.5/dart-core/List/insert.html)
+* [Exemplo de listas usado na aula - Dartpad](https://dartpad.dev/e67510e97155a1417f478e124ebcb189?)
