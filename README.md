@@ -155,7 +155,7 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 
 ## Aula 38 - App Marimba - Reproduzindo sons em diferentes dispositivos
 * [Pacote audioplayers - Documentação oficial](https://pub.dev/packages/audioplayers)
-* [AudioCache - Documentação detalhada](https://github.com/luanpotter/audioplayers/blob/master/doc/audio_cache.md)
+* [AudioCache - Documentação detalhada](https://github.com/luanpotter/audioplayers/blob/master/packages/audioplayers/doc/audio_cache.md)
 
 ## Aula 39 - App Marimba - Reproduzindo múltiplos sons utilizando botões
 * [Layout de referência do App Marimba - Imagem](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/imagens/marimba-flutter-novo.png)
