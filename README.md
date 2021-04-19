@@ -154,8 +154,7 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 * [Pacote cpfcnpj - Documentação oficial](https://pub.dev/packages/cpfcnpj)
 
 ## Aula 38 - App Marimba - Reproduzindo sons em diferentes dispositivos
-* [Pacote audioplayers - Documentação oficial](https://pub.dev/packages/audioplayers)
-Nota: Alguns de nossos alunos tem relatado problemas ao utilizar a versão 0.17.4 do plugin audioplayers (versão utilizada na aula 38). Caso você também passe por problemas com a versão 0.17.4 tente alterar para a versão mais recente do plugin que até a data em que escrevemos essa nota (17/04/2021) é a 0.18.3. Caso ainda assim não consiga resolver o problema envie uma mensagem no discord e peça apoio aos membros de nossa comunidade.
+* [Pacote audioplayers - Documentação oficial](https://pub.dev/packages/audioplayers) - Nota: Alguns de nossos alunos tem relatado problemas ao utilizar a versão 0.17.4 do plugin audioplayers (versão utilizada na aula 38). Caso você também passe por problemas com a versão 0.17.4 tente alterar para a versão mais recente do plugin que até a data em que escrevemos essa nota (17/04/2021) é a 0.18.3. Caso ainda assim não consiga resolver o problema envie uma mensagem no discord e peça apoio aos membros de nossa comunidade.
 * [AudioCache - Documentação detalhada](https://github.com/luanpotter/audioplayers/blob/master/packages/audioplayers/doc/audio_cache.md)
 
 ## Aula 39 - App Marimba - Reproduzindo múltiplos sons utilizando botões
