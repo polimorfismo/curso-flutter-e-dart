@@ -133,6 +133,7 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 
 ## Aula 34 - App Dadoos - DESAFIO 02 - Parte 2 (Calculadora)
 * [Estrutura inicial (Parte 1 do desafio completa)](https://github.com/polimorfismo/desafio-2-parte1-calculadora-completo-flutter)
+* [Resolução DESAFIO 02 - Parte 2 (Calculadora)](https://github.com/polimorfismo/desafio-2-parte2-calculadora-completo-flutter)
 
 # App Vidente Virtual - Módulo V
 ## Aula 35 - MEGA DESAFIO 1 - App Vidente Virtual
