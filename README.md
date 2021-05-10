@@ -145,6 +145,7 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 * [Etapa 5](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/app-vidente-virtual/Etapa%205%20-%20Desafio%20App%20Vidente%20Virtual.pdf)
 * [Etapa 6](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/app-vidente-virtual/Etapa%206%20-%20Desafio%20App%20Vidente%20Virtual.pdf)
 * [Etapa 7](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/app-vidente-virtual/Etapa%207%20-%20Desafio%20App%20Vidente%20Virtual.pdf)
+* [Resolução do MEGA DESAFIO 1 - App Vidente Virtual](https://github.com/polimorfismo/mega-desafio-1-vidente-virtual-resolucao-flutter)
 
 # App Marimba - Módulo VI
 ## Aula 36 - App Marimba - Um aplicativo de instrumento musical
