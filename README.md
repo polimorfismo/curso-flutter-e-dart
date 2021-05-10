@@ -138,13 +138,13 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 # App Vidente Virtual - Módulo V
 ## Aula 35 - MEGA DESAFIO 1 - App Vidente Virtual
 * [Projeto inicial do MEGA DESAFIO 1 - App Vidente Virtual](https://github.com/polimorfismo/mega-desafio-1-vidente-virtual-estrutura-inicial-flutter)
-* [Etapa 1](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/Etapa%201%20-%20Desafio%20App%20Vidente%20Virtual.pdf)
-* [Etapa 2](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/Etapa%202%20-%20Desafio%20App%20Vidente%20Virtual.pdf)
-* [Etapa 3](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/Etapa%203%20-%20Desafio%20App%20Vidente%20Virtual.pdf)
-* [Etapa 4](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/Etapa%204%20-%20Desafio%20App%20Vidente%20Virtual.pdf)
-* [Etapa 5](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/Etapa%205%20-%20Desafio%20App%20Vidente%20Virtual.pdf)
-* [Etapa 6](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/Etapa%206%20-%20Desafio%20App%20Vidente%20Virtual.pdf)
-* [Etapa 7](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/Etapa%207%20-%20Desafio%20App%20Vidente%20Virtual.pdf)
+* [Etapa 1](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/app-vidente-virtual/Etapa%201%20-%20Desafio%20App%20Vidente%20Virtual.pdf)
+* [Etapa 2](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/app-vidente-virtual/Etapa%202%20-%20Desafio%20App%20Vidente%20Virtual.pdf)
+* [Etapa 3](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/app-vidente-virtual/Etapa%203%20-%20Desafio%20App%20Vidente%20Virtual.pdf)
+* [Etapa 4](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/app-vidente-virtual/Etapa%204%20-%20Desafio%20App%20Vidente%20Virtual.pdf)
+* [Etapa 5](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/app-vidente-virtual/Etapa%205%20-%20Desafio%20App%20Vidente%20Virtual.pdf)
+* [Etapa 6](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/app-vidente-virtual/Etapa%206%20-%20Desafio%20App%20Vidente%20Virtual.pdf)
+* [Etapa 7](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/app-vidente-virtual/Etapa%207%20-%20Desafio%20App%20Vidente%20Virtual.pdf)
 
 # App Marimba - Módulo VI
 ## Aula 36 - App Marimba - Um aplicativo de instrumento musical
