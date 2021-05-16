@@ -164,7 +164,7 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 * [Método styleFrom - Documentação oficial](https://api.flutter.dev/flutter/material/TextButton/styleFrom.html)
 
 ## Aula 43 - App Marimba - [Dart] Funções - DESAFIO
-* [Link do desafio - DartPad](https://dartpad.dev/4ee7d285a80d4c73c38f2a884f5dbc47)
+* [Link do desafio - DartPad](https://dartpad.dev/4ee7d285a80d4c73c38f2a884f5dbc47?null_safety=false)
 
 ## Aula 44 - App Marimba - Refatorando o nosso App
 * [Projeto final do aplicativo Marimba](https://github.com/polimorfismo/marimba-completo-flutter)
