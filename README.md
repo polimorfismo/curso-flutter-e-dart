@@ -184,3 +184,8 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 * [Método indexOf - Documentação oficial](https://api.dart.dev/stable/2.12.0/dart-core/List/indexOf.html)
 * [Método insert - Documentação oficial](https://api.dart.dev/stable/2.10.5/dart-core/List/insert.html)
 * [Exemplo de listas usado na aula - Dartpad](https://dartpad.dev/e67510e97155a1417f478e124ebcb189?)
+
+## Aula 59 - App QuizApp - Desafio
+* [Pacote rflutter_alert - Documentação oficial](https://pub.dev/packages/rflutter_alert)
+* [Estrutura inicial - Desafio](https://github.com/polimorfismo/quizapp-estrutura-inicial-desafio-flutter)
+* [Solução do Desafio](https://github.com/polimorfismo/quizapp-completo-flutter)
