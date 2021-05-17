@@ -188,4 +188,4 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 ## Aula 59 - App QuizApp - Desafio
 * [Pacote rflutter_alert - Documentação oficial](https://pub.dev/packages/rflutter_alert)
 * [Estrutura inicial - Desafio](https://github.com/polimorfismo/quizapp-estrutura-inicial-desafio-flutter)
-* [Solução do Desafio](https://github.com/polimorfismo/quizapp-completo-flutter)
+* [Solução do Desafio (Projeto final do aplicativo QuizApp)](https://github.com/polimorfismo/quizapp-completo-flutter)
