@@ -189,3 +189,6 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 * [Pacote rflutter_alert - Documentação oficial](https://pub.dev/packages/rflutter_alert)
 * [Estrutura inicial - Desafio](https://github.com/polimorfismo/quizapp-estrutura-inicial-desafio-flutter)
 * [Solução do Desafio (Projeto final do aplicativo QuizApp)](https://github.com/polimorfismo/quizapp-completo-flutter)
+
+## Aula 60 - App QuizApp - [Dart] Construtores de classe
+* [Construtores - Documentação oficial](https://dart.dev/guides/language/language-tour#constructors)
