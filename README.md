@@ -192,3 +192,23 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 
 ## Aula 60 - App QuizApp - [Dart] Construtores de classe
 * [Construtores - Documentação oficial](https://dart.dev/guides/language/language-tour#constructors)
+
+## Aula 61 - App QuizApp - DESAFIO 02 - Parte 3/Final (Calculadora)
+* [Estrutura inicial (Parte 2 do desafio completa + TODOs)](https://github.com/polimorfismo/desafio-2-parte-3-calculadora-estrutura-inicial-flutter)
+* [Pacote math_expressions - Documentação oficial](https://pub.dev/packages/math_expressions)
+* [Método replace - Documentação oficial](https://api.flutter.dev/flutter/dart-core/String/replaceAll.html)
+* [ElevatedButton - Documentação do widget](https://api.flutter.dev/flutter/material/ElevatedButton-class.html)
+* [Resolução DESAFIO 02 - Parte 3/Final (Calculadora)](https://github.com/polimorfismo/desafio-2-parte-3-calculadora-completo-flutter)
+
+# App Harry Potter Houses - Módulo VIII
+## Aula 62 - MEGA DESAFIO 2 - App Harry Potter Houses
+* [Projeto inicial do MEGA DESAFIO 2 - App Harry Potter Houses Virtual](https://github.com/polimorfismo/harry-potter-houses-estrutura-inicial-flutter)
+* [Etapa 1](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/app-harry-potter-houses/Etapa%201%20-%20Desafio%20App%20Harry%20Potter%20Houses.pdf)
+* [Etapa 2](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/app-harry-potter-houses/Etapa%202%20-%20Desafio%20App%20Harry%20Potter%20Houses.pdf)
+* [Etapa 3](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/app-harry-potter-houses/Etapa%203%20-%20Desafio%20App%20Harry%20Potter%20Houses.pdf)
+* [Etapa 4](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/app-harry-potter-houses/Etapa%204%20-%20Desafio%20App%20Harry%20Potter%20Houses.pdf)
+* [Etapa 5](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/app-harry-potter-houses/Etapa%205%20-%20Desafio%20App%20Harry%20Potter%20Houses.pdf)
+* [Etapa 6](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/app-harry-potter-houses/Etapa%206%20-%20Desafio%20App%20Harry%20Potter%20Houses.pdf)
+* [Etapa 7](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/app-harry-potter-houses/Etapa%207%20-%20Desafio%20App%20Harry%20Potter%20Houses.pdf)
+* [Resolução do MEGA DESAFIO 2 - App Harry Potter Houses](https://github.com/polimorfismo/harry-potter-houses-completo-flutter)
+
