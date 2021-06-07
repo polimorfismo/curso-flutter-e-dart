@@ -212,3 +212,16 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 * [Etapa 7](https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/pdfs/app-harry-potter-houses/Etapa%207%20-%20Desafio%20App%20Harry%20Potter%20Houses.pdf)
 * [Resolução do MEGA DESAFIO 2 - App Harry Potter Houses](https://github.com/polimorfismo/harry-potter-houses-completo-flutter)
 
+# App IMCCalc - Módulo IX
+## Aula 63 - App IMCCal - Um aplicativo para calcular o IMC
+* [Design do app IMCCalc - Site Dribble](https://dribbble.com/polimorfismo)
+
+## Aula 64 - App IMCCal - Como usar os temas do Flutter
+* [Projeto inicial do app IMCCalc](https://github.com/polimorfismo/imccalc-estrutura-inicial-flutter)
+* [Temas do Flutter - Documentação do Cookbook](https://flutter.dev/docs/cookbook/design/themes)
+* [Cookbook - Site com várias “receitas” do Flutter](https://flutter.dev/docs/cookbook)
+* [ThemeData - Documentação do widget](https://api.flutter.dev/flutter/material/ThemeData-class.html)
+* [Design do app IMCCalc - Site Dribble](https://dribbble.com/polimorfismo)
+* [ColorZilla - Plugin do Chrome e Firefox para extração da cores via código hex](https://www.colorzilla.com)
+* [Color - Documentação da classe](https://api.flutter.dev/flutter/dart-ui/Color-class.html)
+* [Como as cores hexadecimais funcionam? - Stack Overflow](https://stackoverflow.com/questions/22239803/how-does-hexadecimal-color-work)
