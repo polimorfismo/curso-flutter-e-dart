@@ -225,3 +225,8 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 * [ColorZilla - Plugin do Chrome e Firefox para extração da cores via código hex](https://www.colorzilla.com)
 * [Color - Documentação da classe](https://api.flutter.dev/flutter/dart-ui/Color-class.html)
 * [Como as cores hexadecimais funcionam? - Stack Overflow](https://stackoverflow.com/questions/22239803/how-does-hexadecimal-color-work)
+
+## Aula 65 - App IMCCal - Como refatorar os widgets do Flutter
+* [BoxDecoration - Documentação do widget](https://api.flutter.dev/flutter/painting/BoxDecoration-class.html)
+* [Key - Documentação da classe](https://api.flutter.dev/flutter/painting/BoxDecoration-class.html)
+
