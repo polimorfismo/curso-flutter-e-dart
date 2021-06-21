@@ -230,3 +230,7 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 * [BoxDecoration - Documentação do widget](https://api.flutter.dev/flutter/painting/BoxDecoration-class.html)
 * [Key - Documentação da classe](https://api.flutter.dev/flutter/painting/BoxDecoration-class.html)
 
+## Aula 66 - App IMCCal - [Dart] Final versus Const
+* [Final e Const - Documentação oficial do Dart](https://dart.dev/guides/language/language-tour#final-and-const)
+* [DateTime - Documentação da classe](https://api.flutter.dev/flutter/dart-core/DateTime-class.html)
+* [double.infinity - Documentação oficial](https://api.flutter.dev/flutter/dart-ui/Size/infinite-constant.html)
