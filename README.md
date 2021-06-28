@@ -234,3 +234,8 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 * [Final e Const - Documentação oficial do Dart](https://dart.dev/guides/language/language-tour#final-and-const)
 * [DateTime - Documentação da classe](https://api.flutter.dev/flutter/dart-core/DateTime-class.html)
 * [double.infinity - Documentação oficial](https://api.flutter.dev/flutter/dart-ui/Size/infinite-constant.html)
+
+## Aula 67 - App IMCCal - Criando widgets personalizados do Flutter
+* [Widget - Documentação da classe](https://api.flutter.dev/flutter/widgets/Widget-class.html)
+* [Pacote font_awesome_flutter - Documentação oficial](https://pub.dev/packages/font_awesome_flutter)
+* [IconData - Documentação da classe](https://api.flutter.dev/flutter/widgets/IconData-class.html)
