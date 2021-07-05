@@ -239,3 +239,7 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 * [Widget - Documentação da classe](https://api.flutter.dev/flutter/widgets/Widget-class.html)
 * [Pacote font_awesome_flutter - Documentação oficial](https://pub.dev/packages/font_awesome_flutter)
 * [IconData - Documentação da classe](https://api.flutter.dev/flutter/widgets/IconData-class.html)
+
+## Aula 68 - App IMCCal - Utilizando o widget GestureDetector
+* [GestureDetector - Documentação do widget](https://api.flutter.dev/flutter/widgets/GestureDetector-class.html)
+
