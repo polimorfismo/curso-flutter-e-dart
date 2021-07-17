@@ -216,7 +216,7 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 ## Aula 63 - App IMCCal - Um aplicativo para calcular o IMC
 * [Design do app IMCCalc - Site Dribble](https://dribbble.com/polimorfismo)
 
-## Aula 64 - App IMCCal - Como usar os temas do Flutter
+## Aula 64 - App IMCCalc - Como usar os temas do Flutter
 * [Projeto inicial do app IMCCalc](https://github.com/polimorfismo/imccalc-estrutura-inicial-flutter)
 * [Temas do Flutter - Documentação do Cookbook](https://flutter.dev/docs/cookbook/design/themes)
 * [Cookbook - Site com várias “receitas” do Flutter](https://flutter.dev/docs/cookbook)
@@ -226,20 +226,20 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 * [Color - Documentação da classe](https://api.flutter.dev/flutter/dart-ui/Color-class.html)
 * [Como as cores hexadecimais funcionam? - Stack Overflow](https://stackoverflow.com/questions/22239803/how-does-hexadecimal-color-work)
 
-## Aula 65 - App IMCCal - Como refatorar os widgets do Flutter
+## Aula 65 - App IMCCalc - Como refatorar os widgets do Flutter
 * [BoxDecoration - Documentação do widget](https://api.flutter.dev/flutter/painting/BoxDecoration-class.html)
 * [Key - Documentação da classe](https://api.flutter.dev/flutter/painting/BoxDecoration-class.html)
 
-## Aula 66 - App IMCCal - [Dart] Final versus Const
+## Aula 66 - App IMCCalc - [Dart] Final versus Const
 * [Final e Const - Documentação oficial do Dart](https://dart.dev/guides/language/language-tour#final-and-const)
 * [DateTime - Documentação da classe](https://api.flutter.dev/flutter/dart-core/DateTime-class.html)
 * [double.infinity - Documentação oficial](https://api.flutter.dev/flutter/dart-ui/Size/infinite-constant.html)
 
-## Aula 67 - App IMCCal - Criando widgets personalizados do Flutter
+## Aula 67 - App IMCCalc - Criando widgets personalizados do Flutter
 * [Widget - Documentação da classe](https://api.flutter.dev/flutter/widgets/Widget-class.html)
 * [Pacote font_awesome_flutter - Documentação oficial](https://pub.dev/packages/font_awesome_flutter)
 * [IconData - Documentação da classe](https://api.flutter.dev/flutter/widgets/IconData-class.html)
 
-## Aula 68 - App IMCCal - Utilizando o widget GestureDetector
+## Aula 68 - App IMCCalc - Utilizando o widget GestureDetector
 * [GestureDetector - Documentação do widget](https://api.flutter.dev/flutter/widgets/GestureDetector-class.html)
 
