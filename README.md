@@ -243,3 +243,10 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 ## Aula 68 - App IMCCalc - Utilizando o widget GestureDetector
 * [GestureDetector - Documentação do widget](https://api.flutter.dev/flutter/widgets/GestureDetector-class.html)
 
+## Aula 72 - App IMCCalc - Utilizando o widget Slider do Flutter
+* [textBaseline - Documentação da propriedade](https://api.flutter.dev/flutter/painting/TextStyle/textBaseline.html)
+* [Slider - Documentação do widget](https://api.flutter.dev/flutter/material/Slider-class.html)
+* [onChanged - Documentação da propriedade](https://api.flutter.dev/flutter/material/Slider/onChanged.html)
+* [.toString - Documentação do método](https://api.flutter.dev/flutter/dart-core/int/toString.html)
+* [.toDouble - Documentação do método](https://api.flutter.dev/flutter/dart-core/num/toDouble.html)
+* [.round - Documentação do método](https://api.flutter.dev/flutter/dart-core/num/toDouble.html)
