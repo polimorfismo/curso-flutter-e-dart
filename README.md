@@ -250,3 +250,10 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 * [.toString - Documentação do método](https://api.flutter.dev/flutter/dart-core/int/toString.html)
 * [.toDouble - Documentação do método](https://api.flutter.dev/flutter/dart-core/num/toDouble.html)
 * [.round - Documentação do método](https://api.flutter.dev/flutter/dart-core/num/toDouble.html)
+
+## Aula 73 - App IMCCalc - Composição vs. Herança - Construindo widgets do zero
+* [FloatingActionButton - Documentação do widget](https://api.flutter.dev/flutter/material/FloatingActionButton-class.html) 
+* [RawMaterialButton - Documento do widget](https://api.flutter.dev/flutter/material/RawMaterialButton-class.html)
+* [shape - Documentação da propriedade](https://api.flutter.dev/flutter/painting/BoxDecoration/shape.html)
+* [ShapeBorder - Documentação da classe](https://api.flutter.dev/flutter/painting/ShapeBorder-class.html)
+* [CircleBorder - Documentação da classe](https://api.flutter.dev/flutter/painting/CircleBorder-class.html)
