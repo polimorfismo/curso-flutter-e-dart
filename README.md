@@ -257,3 +257,10 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 * [shape - Documentação da propriedade](https://api.flutter.dev/flutter/painting/BoxDecoration/shape.html)
 * [ShapeBorder - Documentação da classe](https://api.flutter.dev/flutter/painting/ShapeBorder-class.html)
 * [CircleBorder - Documentação da classe](https://api.flutter.dev/flutter/painting/CircleBorder-class.html)
+
+## Aula 74 - App IMCCalc - Usando rotas e navegação para mudar de tela
+* [Estrutura inicial do Flutter navigation](https://github.com/polimorfismo/flutter-navigation-estrutura-inicial)
+* [Navegar para uma nova tela - Documentação do Cookbook](https://flutter.dev/docs/cookbook/navigation/navigation-basics)
+* [Navegar com rotas nomeadas - Documentação do Cookbook](https://flutter.dev/docs/cookbook/navigation/named-routes)
+* [Estrutura final do Flutter navigation](https://github.com/polimorfismo/flutter-navigation-estrutura-final)
+
