@@ -264,3 +264,6 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 * [Navegar com rotas nomeadas - Documentação do Cookbook](https://flutter.dev/docs/cookbook/navigation/named-routes)
 * [Estrutura final do Flutter navigation](https://github.com/polimorfismo/flutter-navigation-estrutura-final)
 
+## Aula 75 - App IMCCalc - [Dart] Mapas
+* [Map - Documentação da classe](https://api.dart.dev/stable/2.13.4/dart-core/Map-class.html)
+
