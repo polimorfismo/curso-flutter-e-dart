@@ -267,3 +267,7 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 ## Aula 75 - App IMCCalc - [Dart] Mapas
 * [Map - Documentação da classe](https://api.dart.dev/stable/2.13.4/dart-core/Map-class.html)
 
+## Aula 76 - App IMCCalc - Construindo a tela de resultados
+* [TextAlign - Documentação oficial](https://api.flutter.dev/flutter/dart-ui/TextAlign-class.html)
+
+
