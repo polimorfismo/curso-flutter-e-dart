@@ -270,4 +270,8 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 ## Aula 76 - App IMCCalc - Construindo a tela de resultados
 * [TextAlign - Documentação oficial](https://api.flutter.dev/flutter/dart-ui/TextAlign-class.html)
 
-
+## Aula 77 - App IMCCalc - Adicionando funcionalidades ao App
+* [Cálculo do IMC - Wikipedia](https://pt.wikipedia.org/wiki/Índice_de_massa_corporal)
+* [pow - Documentação da função do Dart](https://api.dart.dev/stable/2.10.5/dart-math/pow.html)
+* [toStringAsFixed - Documentação do método](https://api.dart.dev/stable/2.13.4/dart-core/num/toStringAsFixed.html)
+* [toUpperCase - Documentação do método](https://api.flutter.dev/flutter/dart-core/String/toUpperCase.html)
