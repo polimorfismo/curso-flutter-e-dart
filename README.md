@@ -198,7 +198,12 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 * [Pacote math_expressions - Documentação oficial](https://pub.dev/packages/math_expressions)
 * [Método replace - Documentação oficial](https://api.flutter.dev/flutter/dart-core/String/replaceAll.html)
 * [ElevatedButton - Documentação do widget](https://api.flutter.dev/flutter/material/ElevatedButton-class.html)
-* [Resolução DESAFIO 02 - Parte 3/Final (Calculadora)](https://github.com/polimorfismo/desafio-2-parte-3-calculadora-completo-flutter)
+* [Resolução DESAFIO 02 - Parte 3/Final (Calculadora)](https://github.com/polimorfismo/desafio-2-parte-3-calculadora-completo-flutter) - ATENÇÃO: Caso tenha problemas para visualizar os valores no visor da calculadora dê uma olhada nos links a seguir:
+1. https://stackoverflow.com/questions/64484113/the-argument-type-function-cant-be-assigned-to-the-parameter-type-void-funct
+2. https://pt.stackoverflow.com/questions/432238/voidcallback-x-function-qual-a-diferen%C3%A7a
+3. https://api.flutter.dev/flutter/material/MaterialButton/onPressed.html
+4. https://api.flutter.dev/flutter/dart-ui/VoidCallback.html 
+  
 
 # App Harry Potter Houses - Módulo VIII
 ## Aula 62 - MEGA DESAFIO 2 - App Harry Potter Houses
