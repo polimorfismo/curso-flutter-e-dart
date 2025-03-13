@@ -75,6 +75,8 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 
 ## Aula 17 - App MyCard - Incorporando fontes personalizadas no seu app Flutter
 * [Google Fonts - Site oficial](https://fonts.google.com)
+
+  OBS.: A fonte **Source Sans Pro** não é mais encontrada no Google Fonts. Sugerimos a utilização da fonte **Source Sans 3** em substituição
 * [Fontes personalizadas - Documentação oficial](https://flutter.dev/docs/cookbook/design/fonts)
 
 ## Aula 18 - App MyCard - Adicionando ícones do Material Design com o widget Icon
